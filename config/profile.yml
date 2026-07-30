@@ -1,0 +1,79 @@
+# Eric Hatch — Career-Ops Profile
+# Source of truth for targeting. Update employment history in cv.md when confirmed.
+
+candidate:
+  full_name: "Eric Hatch"
+  email: "tuppysniff@proton.me"
+  phone: ""
+  location: "Remote (US-friendly preferred)"
+  linkedin: ""
+  portfolio_url: ""
+  github: "github.com/RiCSaucd"
+  twitter: ""
+  photo: ""
+
+target_roles:
+  primary:
+    - "AI Automation Engineer"
+    - "AI Agent Engineer"
+    - "Applied AI Engineer"
+    - "n8n / Workflow Automation Specialist"
+    - "Forward Deployed Engineer (AI)"
+  archetypes:
+    - name: "AI Automation / Agentic Workflows"
+      level: "Mid"
+      fit: "primary"
+    - name: "Forward Deployed / Applied AI Engineer"
+      level: "Mid"
+      fit: "primary"
+    - name: "MCP / Cursor Integration Consultant"
+      level: "Mid"
+      fit: "secondary"
+    - name: "AI Solutions / Automation Freelancer"
+      level: "Mid"
+      fit: "secondary"
+
+narrative:
+  headline: "AI automation builder — agents, MCP, Cursor, and workflow systems that ship"
+  exit_story: >
+    Hands-on with modern AI agent tooling (Cursor Cloud Agents, Claude Code,
+    MCP servers, Firecrawl, Agent Reach, career-ops). Positioning for remote
+    AI automation roles and freelance agent/workflow builds that produce
+    measurable business outcomes.
+  superpowers:
+    - "Operating AI coding agents end-to-end (Cursor, Claude Code, MCP)"
+    - "Wiring tools into agent workflows (GitHub, job boards, scrapers, SaaS MCPs)"
+    - "Fast iteration from idea → working automation demo"
+    - "Job-search automation systems (career-ops, ai-job-search)"
+  proof_points:
+    - name: "Agent Reach"
+      url: "https://github.com/RiCSaucd/Agent-Reach"
+      hero_metric: "Agent internet read/search across multiple platforms"
+    - name: "Career-Ops job pipeline"
+      url: "https://github.com/RiCSaucd/career-ops"
+      hero_metric: "AI-powered evaluate → CV → apply pipeline"
+    - name: "AI Job Search framework"
+      url: "https://github.com/RiCSaucd/ai-job-search"
+      hero_metric: "Multi-portal scrape + fit scoring + application assist"
+    - name: "Hiring Agent"
+      url: "https://github.com/RiCSaucd/hiring-agent"
+      hero_metric: "Resume-to-score evaluation with GitHub signals"
+
+compensation:
+  target_range: "$80K-140K (FT) or $50-120/hr (freelance)"
+  currency: "USD"
+  minimum: "$60K FT or $40/hr freelance"
+  location_flexibility: "Remote only preferred; async-friendly; US timezone overlap ideal"
+
+location:
+  country: "United States"
+  city: ""
+  timezone: "US (flexible)"
+  visa_status: "Confirm with candidate"
+  onsite_availability: "Remote only unless exceptional"
+
+cover_letter:
+  notice_period_days: 14
+  primary_domain: "AI automation and agent tooling"
+
+auto_pdf_score_threshold: 4.0
